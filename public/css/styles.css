@@ -333,7 +333,7 @@ form div label {
     background-color: #FFF;
     border-radius: 50%;
     position: absolute;
-    right: 45%;
+    right: 20px;
     top: -15px; 
     display: inline-flex;
     
@@ -361,9 +361,10 @@ form div label {
 .descuento{
     display: inline-block;
     text-align: left;
-    width: 70%;
+    width: 50%;
     font-size: 12px;
     padding: 5px;
+    margin-left: 40px;
     color: green;
 }
 .descripcion{
